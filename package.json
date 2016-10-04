@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-splash",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "The default theme for NoCulture.lol",
   "main": "theme.less",
   "keywords": [
 
